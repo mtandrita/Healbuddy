@@ -1,0 +1,7 @@
+{
+  "name": "HealBuddy",
+  "description": "A multimodal AI Health Assistant that analyzes symptoms, provides home remedies, and detects severity levels using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
